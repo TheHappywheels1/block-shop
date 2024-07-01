@@ -1,1 +1,1 @@
-# block-shop
+No stealing the blocks!
